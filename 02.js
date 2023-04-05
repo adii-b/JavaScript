@@ -1,7 +1,7 @@
-let fname = 'Aditya';
-let lname = 'Bharadwaj';
-let marit = 'single';
-let country = 'India';
+let fname = "Aditya";
+let lname = "Bharadwaj";
+let marit = "single";
+let country = "India";
 let age = 21;
 
 console.log(`My name is: ${fname} ${lname}`);
